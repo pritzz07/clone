@@ -1,9 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&family=Roboto:wght@400;700&display=swap");
-<<<<<<< HEAD
-•⁠  ⁠{
-=======
 * {
->>>>>>> 622717b (initial commit)
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -172,7 +168,6 @@ header {
 .feature-card p {
   text-align: center;
 }
-<<<<<<< HEAD
 .big-features-container{
   gap: 30px;
 }
@@ -186,8 +181,7 @@ header {
   justify-content: center;
   gap: px;
 }
-.example-area{
-=======
+.example-area,
 .big-feature-container {
   gap: 30px;
 }
@@ -202,27 +196,21 @@ header {
   gap: 10px;
 }
 .example-area {
->>>>>>> 622717b (initial commit)
   justify-content: space-between;
   margin-block: 30px;
 }
-
-<<<<<<< HEAD
 .example-card{
   flex-direction: column;
   width: 20%;
-=======
 .example-card {
   flex-direction: column;
   width: 23%;
->>>>>>> 622717b (initial commit)
   min-height: 300px;
   background-color: black;
   color: white;
   justify-content: end;
   padding: 25px;
   transition: 0.2 ease-out;
-<<<<<<< HEAD
   /* background:linear-gradient(rgb(0,0,0,1),rgb(0,0,0,8)),url(assets/assets/asset\ 36.jpeg); */
 }
 .example-card:hover{
@@ -260,8 +248,6 @@ header {
 .spacer {
   min-height: 100vh;
 }
-
-=======
 }
 .example-card:hover {
   box-shadow: 0 0 10px #888;
@@ -340,4 +326,3 @@ footer {
 .spacer {
   min-height: 100vh;
 }
->>>>>>> 622717b (initial commit)
